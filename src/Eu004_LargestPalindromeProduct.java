@@ -1,5 +1,5 @@
 
-public class LargestPalindromeProduct {
+public class Eu004_LargestPalindromeProduct {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

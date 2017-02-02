@@ -1,5 +1,5 @@
 
-public class SpecialPythagoreanTriplet {
+public class Eu009_SpecialPythagoreanTriplet {
 
 public static void main(String[] args) {
 	// TODO Auto-generated method stub

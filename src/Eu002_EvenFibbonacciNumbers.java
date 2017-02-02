@@ -1,5 +1,5 @@
 
-public class EvenFibbonacciNumbers{
+public class Eu002_EvenFibbonacciNumbers{
 	public static void main(String[] args) {
 
 	int max = 4000000;

@@ -1,5 +1,5 @@
 
-public class LargestPrimeFactor {
+public class Eu003_LargestPrimeFactor {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

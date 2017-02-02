@@ -1,4 +1,4 @@
-public class LargestProductInASeries {
+public class Eu008_LargestProductInASeries {
 
 public static void main(String[] args) {
 // TODO Auto-generated method stub

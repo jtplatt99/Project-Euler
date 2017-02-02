@@ -1,5 +1,5 @@
 
-public class SmallestMultiple {
+public class Eu005_SmallestMultiple {
 
 public static void main(String[] args) {
 		// TODO Auto-generated method stub
